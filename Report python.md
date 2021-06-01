@@ -11,6 +11,9 @@
 +Saving time, energy
 # So What do the software do:
 
+![alt text][logo]
+
+[logo]:https://github.com/nguyentutung/report/blob/main/picture/Picture1.png "interface"
 This is an interface of our software. You can always access to each function you need by click on the button. There are thirteen button on the interface, you can use them to access thirteen different function in the system which we will show you right now.
 First is books management , have four button. These four button will help you in managing available books, modifying book’s detail and adding new books. 
 1. View all book button.

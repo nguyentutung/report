@@ -19,7 +19,7 @@ First is books management , have four button. These four button will help you in
 1. View all book button.
 ![alt text][logo]
 
-[logo]:https://github.com/nguyentutung/report/blob/main/picture/Picture2.png 
+[logo]:https://github.com/nguyentutung/report/blob/main/picture/Picture2.png "picture"
 
 
 Here is the result after you click view all books, it wiil show you almost everything related to the book. Like Book ID, title of the book, author ID,  author name and numbers of copies of the book that your library have. This will help you to control every books that you have in your library, make it easy to find if the book is still there or not or if they want to find something specifically than you can easily find that one for them. Which can saving time for both you and the reader.

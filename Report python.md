@@ -86,9 +86,11 @@ After a user want to borrow a book, you can open this one. In this, you can prov
 10. Return book
 
 ![alt text](https://github.com/nguyentutung/report/blob/main/picture/Picture13.png)
+ 
  When a user return their borrowed book to the library, you can use this to update latest information of the book.
 
 11. View all borrower
+
 ![alt text](https://github.com/nguyentutung/report/blob/main/picture/Picture14.png)
 
 This button will let you see all of the borrower who borrow book from you and which book they were borrowed. Not only that, you can also see the deadline of that book you, after that you can remind them by sending email or calling them.
@@ -116,4 +118,5 @@ Those are all the function that our software have right now, but we will have an
 + Have a nice customer service team who will listen to you whenever you need.
 
 ## This is an UML/ Database diagram of our software
+
 ![alt text](https://github.com/nguyentutung/report/blob/main/picture/Picture18.png)

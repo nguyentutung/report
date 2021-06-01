@@ -94,9 +94,14 @@ After a user want to borrow a book, you can open this one. In this, you can prov
 This button will let you see all of the borrower who borrow book from you and which book they were borrowed. Not only that, you can also see the deadline of that book you, after that you can remind them by sending email or calling them.
 
 12. View borrower by name/book name
+
+
 ![alt text](https://github.com/nguyentutung/report/blob/main/picture/Picture16.png )
 
+
 ![alt text](https://github.com/nguyentutung/report/blob/main/picture/Picture17.png )
+
+
 You can insert the user name (in View borrowed by name) or book name ( in view borrowed by book name) to see all the related information.
 
 Those are all the function that our software have right now, but we will have an update soon. 

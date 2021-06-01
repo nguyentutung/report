@@ -24,7 +24,7 @@ Here is the result after you click view all books, it wiil show you almost every
 2. Add book button:
 
 
-[logo]:https://github.com/nguyentutung/report/blob/main/picture/Picture4.png 
+![alt text](https://github.com/nguyentutung/report/blob/main/picture/Picture4.png )
 
 
 When you click the “Add book” button it will appear this on the screen, it will let you add  to the database the book that did not appear in the library before. The book that you add will have the attribute like book ID, title, author ID, Author name and available copies.
